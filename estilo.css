@@ -1,0 +1,33 @@
+
+body{
+      background-image:url(facenirvana.jpg);
+      
+
+    }
+    .h1a{
+       
+         color:rgba(244, 244, 247, 0.973);
+         font-size: 100px;
+         font-family: Helvetica;
+         padding: auto;
+         margin: 50px;
+        }
+        .h2{
+              color: rgba(223, 10, 56, 0.973);
+            }
+           
+            
+            
+            ol{
+                color: rgba(223, 10, 56, 0.973);
+                font-size: 30px;
+            }
+           .canción:hover{
+                            color:mediumaquamarine;
+                          }
+            .button{
+                background-color: rgb(42, 156, 147);
+            }              
+            
+                
+            
